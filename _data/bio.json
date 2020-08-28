@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Justina Bui",
+    "label": "Shidler Student",
+    "picture": "https://JustinaBui.github.io/images/IMG_0231.jpg",
+    "email": "buijn@hawaii.edu",
+    "phone": "",
+    "website": "https://JustinaBui.github.io",
+    "summary": "I am studying for a B.B.A in Finance, Human Resources, and Management Information Systems at the University of Hawaii. I expect to graduate in Spring, 2022.",
     "location": {
-      "address": "",
+      "address": "2404 Maile Way BUSAD",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -17,41 +17,34 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "JustinaBui",
+        "url": "http://github.com/JustinaBui"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "justina-n-bui",
+        "url": "http://linkedin.com/in/justina-n-bui"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "justxbui",
+        "url": "http://instagram.com/justxbui"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "traveling",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "watching musicals & kdramas",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "listening to music",
       "keywords": [
       ]
     }
@@ -84,9 +77,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Finance, Human Resources, and Management Information Systems (expected Spring, 2022)",
+      "studyType": "B.B.A",
+      "startDate": "August 2018",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -95,69 +88,42 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Hawaii Criminal Justice Data Center",
+      "position": "Student Helper",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "Summer 2018",
+      "endDate": "Summer 2020",
+      "summary": "Student Helper for the State of Hawaii's Attorney General office.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Develop, update, and maintain databases of C.O. information",
+        "Administrative duties, including filing paperwork, delivering mail, email correspondence, and bookkeeping"
       ]
     },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
   ],
-  "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Golden Key International Honour Society",
+      "website": "https://goldenkeymanoa.wixsite.com/gkuhm/home",
+      "position": "Member",
+      "startDate": "Fall 2019",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "President and Director of Members & Honorary Members, 2019-Present",
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Dean's List",
+      "date": "Fall 2018-Present",
+      "awarder": "UH Manoa",
+      "summary": "Awarded to students who obtain above a 3.5 GPA for the semester"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Shidler Global Leaders Program",
+      "date": "Fall 2020",
+      "awarder": "University of Hawaii: Shidler College of Business",
+      "summary": "Students are strong candidates to become the leaders of tomorrow in business and the community."
     }
   ],
   "references": [
