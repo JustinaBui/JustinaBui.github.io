@@ -8,8 +8,6 @@
     "website": "https://JustinaBui.github.io",
     "summary": "I am studying for a B.B.A in Finance, Human Resources, and Management Information Systems at the University of Hawaii. I expect to graduate in Spring, 2022.",
     "location": {
-      "address": "2404 Maile Way BUSAD",
-      "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -34,43 +32,38 @@
   },
   "interests": [
     {
-      "name": "traveling",
+      "name": "Traveling",
       "keywords": [
       ]
     },
     {
-      "name": "watching musicals & kdramas",
+      "name": "Watching Musicals & Kdramas",
       "keywords": [
       ]
     },
     {
-      "name": "listening to music",
+      "name": "Listening to Music",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "English",
+        "Vietnamese",
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Microsoft Office",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Excel",
+        "Word",
+        "PowerPoint",
+        "Outlook",
       ]
     }
   ],
