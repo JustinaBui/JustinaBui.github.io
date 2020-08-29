@@ -106,16 +106,11 @@
       "highlights": []
     }
   ],
-  "awards":[
-      {
-         "title":"Dean's List",
-         "date":"2018-Present",
-         "awarder":"UH Manoa",
-         "summary":"Awarded to students who obtain above a 3.5 GPA for the semester"
-      }
-  "references"
+  "awards": [],
+  "references": [
     {
       "name": "Available upon request",
       "reference": ""
     }
   ]
+}
