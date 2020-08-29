@@ -1,129 +1,133 @@
 {
-  "basics": {
-    "name": "Justina Bui",
-    "label": "Shidler Student",
-    "picture": "https://JustinaBui.github.io/images/IMG_0231.jpg",
-    "email": "buijn@hawaii.edu",
-    "website": "https://JustinaBui.github.io/",
-    "summary": "I am studying for a B.B.A in Finance, Human Resources, and Management Information Systems at the University of Hawaii. I expect to graduate in Spring, 2022.",
-    "location": {
-      "address": "Shidler College of Business, 2404 Maile Way",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
-    "profiles": [
+   "basics":{
+      "name":"Justina Bui",
+      "label":"Shidler Student",
+      "picture":"https://JustinaBui.github.io/images/IMG_0231.jpg",
+      "email":"buijn@hawaii.edu",
+      "website":"https://JustinaBui.github.io/",
+      "summary":"I am studying for a B.B.A in Finance, Human Resources, and Management Information Systems at the University of Hawaii. I expect to graduate in Spring, 2022.",
+      "location":{
+         "address":"Shidler College of Business, 2404 Maile Way",
+         "postalCode":"96822",
+         "city":"Honolulu",
+         "countryCode":"USA",
+         "region":"Hawaii"
+      },
+      "profiles":[
+         {
+            "network":"github",
+            "username":"JustinaBui",
+            "url":"http://JustinaBui.github.io"
+         },
+         {
+            "network":"email",
+            "url":"buijn@hawaii.edu"
+         }
+      ]
+   },
+   "interests":[
       {
-        "network": "github",
-        "username": "JustinaBui",
-        "url": "http://JustinaBui.github.io"
+         "name":"Traveling",
+         "keywords":[
+            "United Stated",
+            "Asia",
+            "Europe"
+         ]
       },
       {
-        "network": "email",
-        "url": "buijn@hawaii.edu"
+         "name":"Watching Musicals and Kdramas",
+         "keywords":[
+            "Theatre",
+            "Opera",
+            "Foreign Languages"
+         ]
+      },
+      {
+         "name":"Listening to Music",
+         "keywords":[
+            "Pop, R&B, RAP",
+            "Instrumental"
+         ]
       }
-    ]
-  },
-  "interests": [
-    {
-      "name": "Traveling",
-      "keywords": [
-        "United Stated",
-        "Asia",
-        "Europe"
-      ]
-    },
-    {
-      "name": "Watching Musicals and Kdramas",
-      "keywords": [
-        "Theatre",
-        "Opera",
-        "Foreign Languages"
-      ]
-    },
-    {
-      "name": "Listening to Music",
-      "keywords": [
-        "Pop, R&B, RAP",
-        "Instrumental"
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "level": "advanced",
-      "keywords": [
-        "English",
-        "Vietnamese",
-      ]
-    },
-    {
-      "name": "Microsoft Office",
-      "level": "",
-      "keywords": [
-        "Excel",
-        "Word",
-        "PowerPoint",
-        "Outlook"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii at Manoa",
-      "area": "Finance, Human Resources, and Management Information Systems",
-      "studyType": "B.B.A.",
-      "startDate": "2018",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": []
-    }
-  ],
-  "work": [
-    {
-      "company": "Hawaii Criminal Justice Data Center",
-      "position": "Student Helper",
-      "website": "http://ag.hawaii.gov/hcjdc/",
-      "startDate": "2018",
-      "endDate": "2020",
-      "summary": "",
-      "highlights": [
-        "Developed, updated, and maintained databases of C.O. information",
-        "Administrative duties, including filing paperwork, delivering mail, email correspondence, and bookkeeping"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Golden Key International Honour Society",
-      "website": "https://goldenkeymanoa.wixsite.com/gkuhm/home",
-      "position": "President and Director of Members & Honorary Members",
-      "startDate": "2019",
-      "endDate": "2020",
-      "summary": "",
-      "highlights": []
-    }
-  ],
-  "awards": [
-    {
-      "title": "Dean's List",
-      "date": "2018-Present",
-      "awarder": "UH Manoa",
-      "summary": "Awarded to students who obtain above a 3.5 GPA for the semester"
-    },
-    {
-      "title": "Shidler Global Leaders Program",
-      "date": "2020-Present",
-      "awarder": "University of Hawaii at Manoa",
-      "summary": ""
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+   ],
+   "skills":[
+      {
+         "name":"Languages and Frameworks",
+         "level":"advanced",
+         "keywords":[
+            "English",
+            "Vietnamese"
+         ]
+      },
+      {
+         "name":"Microsoft Office",
+         "level":"",
+         "keywords":[
+            "Excel",
+            "Word",
+            "PowerPoint",
+            "Outlook"
+         ]
+      }
+   ],
+   "education":[
+      {
+         "institution":"University of Hawaii at Manoa",
+         "area":"Finance, Human Resources, and Management Information Systems",
+         "studyType":"B.B.A.",
+         "startDate":"2018",
+         "endDate":"Present",
+         "gpa":"",
+         "courses":[
+            
+         ]
+      }
+   ],
+   "work":[
+      {
+         "company":"Hawaii Criminal Justice Data Center",
+         "position":"Student Helper",
+         "website":"http://ag.hawaii.gov/hcjdc/",
+         "startDate":"2018",
+         "endDate":"2020",
+         "summary":"",
+         "highlights":[
+            "Developed, updated, and maintained databases of C.O. information",
+            "Administrative duties, including filing paperwork, delivering mail, email correspondence, and bookkeeping"
+         ]
+      }
+   ],
+   "volunteer":[
+      {
+         "organization":"Golden Key International Honour Society",
+         "website":"https://goldenkeymanoa.wixsite.com/gkuhm/home",
+         "position":"President and Director of Members & Honorary Members",
+         "startDate":"2019",
+         "endDate":"2020",
+         "summary":"",
+         "highlights":[
+            
+         ]
+      }
+   ],
+   "awards":[
+      {
+         "title":"Dean's List",
+         "date":"2018-Present",
+         "awarder":"UH Manoa",
+         "summary":"Awarded to students who obtain above a 3.5 GPA for the semester"
+      },
+      {
+         "title":"Shidler Global Leaders Program",
+         "date":"2020-Present",
+         "awarder":"University of Hawaii at Manoa",
+         "summary":""
+      }
+   ],
+   "references":[
+      {
+         "name":"Available upon request",
+         "reference":""
+      }
+   ]
 }
