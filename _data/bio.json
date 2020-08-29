@@ -4,10 +4,11 @@
     "label": "Shidler Student",
     "picture": "https://JustinaBui.github.io/images/IMG_0231.jpg",
     "email": "buijn@hawaii.edu",
-    "phone": "",
-    "website": "https://JustinaBui.github.io",
+    "website": "https://JustinaBui.github.io/",
     "summary": "I am studying for a B.B.A in Finance, Human Resources, and Management Information Systems at the University of Hawaii. I expect to graduate in Spring, 2022.",
     "location": {
+      "address": "Shidler College of Business, 2404 Maile Way",
+      "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -16,17 +17,11 @@
       {
         "network": "github",
         "username": "JustinaBui",
-        "url": "http://github.com/JustinaBui"
+        "url": "http://JustinaBui.github.io"
       },
       {
-        "network": "linkedin",
-        "username": "justina-n-bui",
-        "url": "http://linkedin.com/in/justina-n-bui"
-      },
-      {
-        "network": "instagram",
-        "username": "justxbui",
-        "url": "http://instagram.com/justxbui"
+        "network": "email",
+        "url": "buijn@hawaii.edu"
       }
     ]
   },
@@ -34,23 +29,31 @@
     {
       "name": "Traveling",
       "keywords": [
+        "United Stated",
+        "Asia",
+        "Europe"
       ]
     },
     {
-      "name": "Watching Musicals & Kdramas",
+      "name": "Watching Musicals and Kdramas",
       "keywords": [
+        "Theatre",
+        "Opera",
+        "Foreign Languages"
       ]
     },
     {
       "name": "Listening to Music",
       "keywords": [
+        "Pop, R&B, RAP",
+        "Instrumental"
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages",
-      "level": "",
+      "name": "Languages and Frameworks",
+      "level": "advanced",
       "keywords": [
         "English",
         "Vietnamese",
@@ -63,53 +66,50 @@
         "Excel",
         "Word",
         "PowerPoint",
-        "Outlook",
+        "Outlook"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Finance, Human Resources, and Management Information Systems (expected Spring, 2022)",
-      "studyType": "B.B.A",
+      "institution": "University of Hawaii at Manoa",
+      "area": "Finance, Human Resources, and Management Information Systems",
+      "studyType": "B.B.A.",
       "startDate": "2018",
       "endDate": "Present",
       "gpa": "",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
     {
       "company": "Hawaii Criminal Justice Data Center",
       "position": "Student Helper",
-      "website": "",
+      "website": "http://ag.hawaii.gov/hcjdc/",
       "startDate": "2018",
       "endDate": "2020",
-      "summary": "Student Helper for the State of Hawaii's Attorney General office.",
+      "summary": "",
       "highlights": [
-        "Develop, update, and maintain databases of C.O. information",
+        "Developed, updated, and maintained databases of C.O. information",
         "Administrative duties, including filing paperwork, delivering mail, email correspondence, and bookkeeping"
       ]
-    },
-  ],
-  "awards": [
-    {
-      "title": "Dean's List",
-      "date": "2018-Present",
-      "awarder": "UH Manoa",
-      "summary": "Awarded to students who obtain above a 3.5 GPA for the semester"
-    },
-    {
-      "title": "Shidler Global Leaders Program",
-      "date": "2020-Present",
-      "awarder": "University of Hawaii: Shidler College of Business",
-      "summary": "Students are strong candidates to become the leaders of tomorrow in business and the community."
     }
   ],
+  "volunteer": [
+    {
+      "organization": "Golden Key International Honour Society",
+      "website": "https://goldenkeymanoa.wixsite.com/gkuhm/home",
+      "position": "President and Director of Members & Honorary Members",
+      "startDate": "2019",
+      "endDate": "present",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "awards": [],
   "references": [
     {
-      "name": "Available upon request.",
+      "name": "Available upon request",
       "reference": ""
     }
   ]
