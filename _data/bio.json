@@ -106,7 +106,20 @@
       "highlights": []
     }
   ],
-  "awards": [],
+  "awards": [
+    {
+      "title": "Dean's List",
+      "date": "2018-Present",
+      "awarder": "UH Manoa",
+      "summary": "Awarded to students who obtain above a 3.5 GPA for the semester"
+    },
+    {
+      "title": "Shidler Global Leaders Program",
+      "date": "2020-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": ""
+    }
+  ],
   "references": [
     {
       "name": "Available upon request",
