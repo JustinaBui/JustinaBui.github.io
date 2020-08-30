@@ -20,6 +20,16 @@
             "url":"http://JustinaBui.github.io"
          },
          {
+            "network":"linkedin",
+            "username":"JustinaBui",
+            "url":"http://linkedin.com/in/justina-n-bui"
+         },
+         {
+            "network":"instagram",
+            "username":"justxbui",
+            "url":"http://instagram.com/justxbui"
+         },
+         {
             "network":"email",
             "url":"buijn@hawaii.edu"
          }
