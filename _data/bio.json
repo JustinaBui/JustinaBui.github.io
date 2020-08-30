@@ -20,6 +20,16 @@
             "url":"http://JustinaBui.github.io"
          },
          {
+            "network":"linkedin",
+            "username":"JustinaBui",
+            "url":"http://linkedin.com/in/justina-n-bui"
+         },
+         {
+            "network":"instagram",
+            "username":"justxbui",
+            "url":"http://instagram.com/justxbui"
+         },
+         {
             "network":"email",
             "url":"buijn@hawaii.edu"
          }
@@ -78,8 +88,7 @@
          "startDate":"2018",
          "endDate":"Present",
          "gpa":"",
-         "courses":[
-            
+         "courses":[ 
          ]
       }
    ],
@@ -106,7 +115,6 @@
          "endDate":"2020",
          "summary":"",
          "highlights":[
-            
          ]
       }
    ],
